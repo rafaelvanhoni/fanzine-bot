@@ -1,0 +1,2 @@
+class DiscogsError(Exception):
+    pass
